@@ -1,8 +1,6 @@
-package com.dio.dioProjects_BootCamp;
+package Exercicio2;
 
-import com.dio.dioProjects_BootCamp.Exceptions.DivisaoNaoExataException;
-
-import javax.swing.*;
+import Exercicio2.Exceptions.DivisaoNaoExataException;
 
 public class ExceptionPersonalizada2 {
     public static void main(String[] args) {

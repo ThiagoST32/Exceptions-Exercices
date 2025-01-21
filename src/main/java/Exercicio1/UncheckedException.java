@@ -1,4 +1,4 @@
-package com.dio.dioProjects_BootCamp;
+package Exercicio1;
 
 import javax.swing.*;
 

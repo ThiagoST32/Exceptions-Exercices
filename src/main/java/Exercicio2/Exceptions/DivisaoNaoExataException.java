@@ -1,4 +1,4 @@
-package com.dio.dioProjects_BootCamp.Exceptions;
+package Exercicio2.Exceptions;
 
 public class DivisaoNaoExataException extends Exception {
     protected int numerador;

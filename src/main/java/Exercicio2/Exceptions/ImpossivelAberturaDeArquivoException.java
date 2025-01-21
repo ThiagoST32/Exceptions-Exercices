@@ -1,4 +1,4 @@
-package com.dio.dioProjects_BootCamp.Exceptions;
+package Exercicio2.Exceptions;
 
 import java.util.concurrent.ExecutionException;
 

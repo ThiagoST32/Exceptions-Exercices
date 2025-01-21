@@ -1,6 +1,7 @@
-package com.dio.dioProjects_BootCamp;
+package Exercicio2;
 
-import com.dio.dioProjects_BootCamp.Exceptions.ImpossivelAberturaDeArquivoException;
+import Exercicio2.Exceptions.ImpossivelAberturaDeArquivoException;
+
 import javax.swing.*;
 import java.io.*;
 
